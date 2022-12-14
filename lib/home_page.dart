@@ -677,9 +677,8 @@ class _HomePageState extends State<HomePage> {
                               height: 70,
                               width: 420,
                               padding: const EdgeInsets.only(left: 10, top: 16.0, right: 10),
-                              child: RaisedButton(
+                              child: MaterialButton(
                                 onPressed: () {
-
 
                                 },
                                 color:  Colors.black,
@@ -848,9 +847,8 @@ class _HomePageState extends State<HomePage> {
                                   height: 70,
                                   width: 420,
                                   padding: const EdgeInsets.only(left: 10, top: 16.0, right: 10),
-                                  child: RaisedButton(
+                                  child: MaterialButton(
                                     onPressed: () {
-
 
                                     },
                                     color:  Colors.black,

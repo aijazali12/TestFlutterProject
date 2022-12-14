@@ -10,10 +10,6 @@ void main() {
         home: HomePage(),
         routes: {
           'splashScreen': (context) => const HomePage(),
-
-
-
-
         },
       ));
 }
